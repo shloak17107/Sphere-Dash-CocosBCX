@@ -1,6 +1,0 @@
-In this version of our game, we have integrated CococsBCX payment system.
-Run this in browser (google chrome), after having installed Cocos Pay chrome extension. Login in the extension, with account info: 
-	account: new account
-	password: bhavya100
-Now run the game on the browser. When game ends, the player would have to send fees in proportion to the stars he/she collected to the owner of the game "wasd1". 
-Check this in Cocos terminal to confirm that its working. 
