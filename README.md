@@ -12,8 +12,8 @@ Now run the game in the browser. When the game is over, the player will have to 
 
 Check the transaction in Cocos Terminal to confirm.
 
-![Gameplay](Image 1.jpeg)
-![Payment](Image 2.png)
-![Cocos Pay extension](Image 3.png)
-![Cocos Terminal](Image 4.jpeg)
-![Gameover](Image 5.jpeg)
+![Gameplay](/images/Image-1.jpeg)
+![Payment](/images/Image-2.png)
+![Cocos Pay extension](/images/Image-3.png)
+![Cocos Terminal](/images/Image-4.jpeg)
+![Gameover](/images/Image-5.jpeg)
