@@ -11,3 +11,9 @@ Login in to the extension with this account info:
 Now run the game in the browser. When the game is over, the player will have to send Cocos in proportion to the points he/she has collected in the game. The Cocos are sent to the Cocos Pay account `wasd1`. 
 
 Check the transaction in Cocos Terminal to confirm.
+
+![Gameplay](Image 1.jpeg)
+![Payment](Image 2.png)
+![Cocos Pay extension](Image 3.png)
+![Cocos Terminal](Image 4.jpeg)
+![Gameover](Image 5.jpeg)
